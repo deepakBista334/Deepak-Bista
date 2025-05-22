@@ -6,7 +6,7 @@ def update_student():
     print("you are on update student function")
     #code to update a student  
     
-def delet_student():
+def delete_student():
     print("you are on delet student function")
     #code to delet a student 
     
@@ -18,7 +18,7 @@ def take_attendance():
     print("you are on take attendance function")
         # code to take attendance
         
-def veiw_attendance():
+def view_attendance():
     print("you are on veiw attendance function") 
          # code to veiw attendance
          
